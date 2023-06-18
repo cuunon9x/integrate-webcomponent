@@ -1,0 +1,16 @@
+{
+  "entries": [
+    "./components/side-drawer/side-drawer.js",
+    "./components/spinner-loading/spinner-loading.js",
+    "./components/stock-finder/stock-finder.js",
+    "./components/stock-price/stock-price.js",
+    "./components/tool-tip/tooltip.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "3.3.0",
+    "typescriptVersion": "5.0.4"
+  },
+  "collections": [],
+  "bundles": []
+}
